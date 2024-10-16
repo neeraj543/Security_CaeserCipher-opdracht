@@ -1,5 +1,5 @@
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ[';
-// Offset from the letter 'T'
+// Offset of the letter 'T'
 const letter = 'T'
 const offset = alphabet.indexOf(letter) + 1;
 const codeword = 'SREERAJ';
